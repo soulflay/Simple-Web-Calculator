@@ -1,4 +1,4 @@
-A Simple-Web-Calculator 🎉
+A Simple-Web-Calculator 
 
 Who knew math could be this fun? Here's a simple, sleek, and snappy web calculator I built to sharpen my HTML, CSS, and JavaScript skills—and maybe save you from counting on your fingers!
 
